@@ -1,4 +1,4 @@
-#include "thisiscpp/priority_queue/priority_queue.h"
+#include "thisiscpp/priority_queue/simple_priority_queue.h"
 #include "gtest/gtest.h"
 
 TEST(PriorityQueueTest, SimpleMinPQ) {
